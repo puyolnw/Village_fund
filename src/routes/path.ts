@@ -20,6 +20,7 @@ const paths = {
   forgetPassword: `${rootPaths.authRoot}/forget-password`,
   resetPassword: `${rootPaths.authRoot}/reset-password`,
   notFound: `${rootPaths.errorRoot}/404`,
+  NewPage: `${rootPaths.pagesRoot}/new-page`,
 };
 
 export default paths;
